@@ -1,0 +1,17 @@
+
+.link{
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+}
+
+.link:hover{
+    color: green;
+    text-decoration: none;
+    text-decoration-color: green;
+    text-decoration-line: none;
+}
+
+.text{  
+    font-family: 'Source Sans Pro', sans-serif;
+}
